@@ -1,0 +1,16 @@
+.bg-dark{
+    background-color: rgb(26,27,28) !important;
+}
+
+.bg-header{
+    
+    font-family: 'Times New Roman', Times, serif;
+    border-bottom: 1px solid black;
+    line-height: 3em;
+}
+.header-text{
+
+}
+.bg-header .container-fluid{
+    text-align: center !important;
+}
