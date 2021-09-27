@@ -2,15 +2,22 @@
     background-color: rgb(26,27,28) !important;
 }
 
-.bg-header{
-    
-    font-family: 'Times New Roman', Times, serif;
-    border-bottom: 1px solid black;
-    line-height: 3em;
+hr{
+    opacity: 100%;
 }
+
+.navbar{
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}
+
 .header-text{
 
 }
 .bg-header .container-fluid{
     text-align: center !important;
+}
+
+.contents{
+    font-family: 'Times New Roman', Times, serif;
 }
